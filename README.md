@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Kishan Kadiya</h1>
 <h3 align="center">Developing scalable and high-performance web applications using Laravel and modern technologies.</h3>
 
+🌱 **Currently Learning:** Advanced Laravel features, API security, and database optimization.  
+
+👯 **Looking to Collaborate On:** RESTful APIs, scalable backend solutions, and Vue.js integrations.  
+
+🤝 **Seeking Help With:** Improving system performance and third-party service integrations.  
+
+💬 **Ask Me About:** Laravel, PHP, Vue.js, MySQL, and web application security.  
+
+⚡ **Fun Fact:** I write clean Laravel code faster than my coffee disappears! ☕🚀  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-addweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishan-addweb" alt="kishan-addweb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Crafting dynamic, high-performance web applications using MERN stack.**
-
-- 🌱 I’m currently learning **Modular software design, infrastructure automation, and cloud ecosystems.**
-
-- 👯 I’m looking to collaborate on **Open-source initiatives and innovative projects.**
-
-- 🤝 I’m looking for help with **Optimizing backend performance and database scalability.**
-
-- 💬 Ask me about **MERN stack, system architecture, and authentication strategies.**
-
-- ⚡ Fun fact **I can fix bugs while making coffee! ☕**
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-0052CC?style=for-the-badge&logo=api&logoColor=white) ![Third-Party Integrations](https://img.shields.io/badge/Third--Party%20Integrations-FF6F61?style=for-the-badge&logo=plug&logoColor=white) ![Payment Gateways](https://img.shields.io/badge/Payment%20Gateways-FFB400?style=for-the-badge&logo=stripe&logoColor=black) ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=google-drive&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-6E9F44?style=for-the-badge&logo=php&logoColor=white) ![Laravel Dusk](https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Debugging Tools](https://img.shields.io/badge/Debugging%20Tools-0052CC?style=for-the-badge&logo=bug&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white) ![Fork](https://img.shields.io/badge/Fork-333333?style=for-the-badge&logo=fork&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-FF6F61?style=for-the-badge&logo=scrum&logoColor=white)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan-addweb&show_icons=true&locale=en" alt="kishan-addweb" /></p>
